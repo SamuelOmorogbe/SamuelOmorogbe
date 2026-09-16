@@ -1,10 +1,10 @@
 <div align="center">
 
-![Software Engineering Header](https://capsule-render.vercel.app/api?type=waving\&height=240\&color=0:000000,35:001B2E,70:003B24,100:000000\&text=Samuel%20Omorogbe\&fontColor=38BDF8\&fontSize=50\&fontAlignY=36\&animation=twinkling\&desc=Software%20Engineering%20%7C%20Web%20Development%20%7C%20Technology\&descAlignY=58\&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:111827,100:1E293B&height=220&section=header&text=Samuel%20Omorogbe&fontSize=52&fontColor=22D3EE&fontAlignY=42&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descSize=18&descAlignY=65&descColor=CBD5E1" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=800\&size=24\&duration=2600\&pause=700\&color=38BDF8\&center=true\&vCenter=true\&width=950\&lines=%3E+Initializing+developer+profile...;%3E+Building+useful+web+applications...;%3E+Exploring+intelligent+systems...;%3E+Learning+backend+development...;%3E+Always+learning%2C+always+building...;%3E+Access+granted%3A+SamuelOmorogbe)](https://git.io/typing-svg)
+<br>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+with+code;Learning+every+day;Turning+ideas+into+solutions)
 
 </div>
 
@@ -35,16 +35,20 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" alt="Coding"> About Me
 
 </div>
+<div align="center">
 
-```txt
-> whoami
-
-Software Engineering student passionate about web development,
-intelligent systems, and practical technology solutions.
-
-I enjoy building useful web applications and exploring technologies
-that can solve real-world problems.
+  ```text
+┌──────────────────────────────────────────────────────────────┐
+│  samuel@developer:~$ whoami                                  │
+│                                                              │
+│  Software Engineering Student                                │
+│  Building practical web applications and intelligent systems │
+│                                                              │
+│  samuel@developer:~$ status                                  │
+│  ● Available for learning, building, and collaboration       │
+└──────────────────────────────────────────────────────────────┘
 ```
+</div>
 
 <div align="center">
 
@@ -91,7 +95,7 @@ that can solve real-world problems.
 
 <div align="center">
 
-## Currently Learning
+## Still Learning
 
 <img alt="Backend Development" align="center" src="https://img.shields.io/badge/-Backend%20Development-000000?style=flat&logo=node.js&logoColor=339933" />
 
@@ -152,8 +156,12 @@ A web-based decision support system that uses **fuzzy logic** to analyze farm co
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=800\&size=19\&duration=900\&pause=120\&color=38BDF8\&center=true\&vCenter=true\&repeat=true\&width=900\&lines=%3E+Keep+Building;%3E+Keep+Learning;%3E+Keep+Exploring)](https://git.io/typing-svg)
+### `git commit -m "keep building"`
 
-![Software Engineering Footer](https://capsule-render.vercel.app/api?type=waving\&height=180\&color=0:000000,15:001B2E,30:003B24,45:001B2E,60:003B24,80:001B2E,100:000000\&section=footer\&animation=twinkling\&fontColor=38BDF8)
+![Profile Views](https://komarev.com/ghpvc/?username=SamuelOmorogbe&label=PROFILE+VIEWS&color=22D3EE&style=flat-square)
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,40:111827,75:164E63,100:0F172A&section=footer&animation=fadeIn" />
 
 </div>
