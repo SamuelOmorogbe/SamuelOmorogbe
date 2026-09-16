@@ -27,7 +27,6 @@
 <a href="https://x.com/samuelOmorogbe5/">
   <img alt="X" align="center" src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
 </a>
-
 </div>
 
 <div align="center">
@@ -35,6 +34,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32" alt="Coding"> About Me
 
 </div>
+
 <div align="center">
 
   ```text
