@@ -99,8 +99,6 @@
 
 <img alt="Backend Development" align="center" src="https://img.shields.io/badge/-Backend%20Development-000000?style=flat&logo=node.js&logoColor=339933" />
 
-<br><br>
-
 </div>
 
 <div align="center">
@@ -156,11 +154,9 @@ A web-based decision support system that uses **fuzzy logic** to analyze farm co
 
 <div align="center">
 
-### `git commit -m "keep building"`
+### `"keep building"`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamuelOmorogbe&label=PROFILE+VIEWS&color=22D3EE&style=flat-square)
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,40:111827,75:164E63,100:0F172A&section=footer&animation=fadeIn" />
 
