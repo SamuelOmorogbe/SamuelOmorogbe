@@ -150,6 +150,8 @@ A web-based decision support system that uses **fuzzy logic** to analyze farm co
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelOmorogbe&theme=dark" width="30.5%" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelOmorogbe&theme=dark&hide_border=true)](https://github.com/SamuelOmorogbe)
+
 </div>
 
 <div align="center">
