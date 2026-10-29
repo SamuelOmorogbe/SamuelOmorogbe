@@ -7,6 +7,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+with+code;Learning+every+day;Turning+ideas+into+solutions)
 
 </div>
+<div align="center">
+  <a href="https://wakatime.com/@622f19cf-0a69-4893-b9fd-530da93d5852"><img src="https://wakatime.com/badge/user/622f19cf-0a69-4893-b9fd-530da93d5852.svg" alt="Total time coded since Oct 19 2026" /></a>
+</div>
 
 <div align="center">
 
